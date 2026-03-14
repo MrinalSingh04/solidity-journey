@@ -7,7 +7,7 @@ This repository documents my journey learning Solidity and Blockchain developmen
 - Smart contracts
 - Ethereum & EVM
 - ERC20 tokens
-- Testnet deployment (Sepolia)
+- Testnet deployment (Sepolia) 
 
 ## Goals  
 - Become a professional Blockchain Developer
