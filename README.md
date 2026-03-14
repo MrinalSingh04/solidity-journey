@@ -2,7 +2,7 @@
 
 This repository documents my journey learning Solidity and Blockchain development.
 
-## What I'm learning
+## What I'm learning 
 - Solidity fundamentals
 - Smart contracts
 - Ethereum & EVM
