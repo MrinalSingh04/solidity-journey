@@ -9,7 +9,7 @@ This repository documents my journey learning Solidity and Blockchain developmen
 - ERC20 tokens
 - Testnet deployment (Sepolia)
 
-## Goals
+## Goals 
 - Become a professional Blockchain Developer
 - Build real-world Web3 products
 - Contribute to open-source
